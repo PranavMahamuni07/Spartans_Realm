@@ -1,6 +1,3 @@
-Here’s a refined version of the description for **Spartan's Realm**:
-
----
 
 # Spartan's Realm 🛡️💪
 
@@ -16,6 +13,3 @@ Here’s a refined version of the description for **Spartan's Realm**:
 
 With a focus on usability and interaction, **Spartan's Realm** is tailored to help users achieve their health and fitness goals while connecting with like-minded individuals.
 
----
-
-This summary aligns with the details of your project while highlighting its core features and objectives. Let me know if you'd like further adjustments!
